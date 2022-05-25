@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Suraj, a  2nd year Computer Science student 👨‍</div>  
+### <div align="center">I'm Suraj, a  Triennial Computer Science student 👨‍</div>  
   
 
 - 👀 I’m interested in Web Development as well as in Android Development  
