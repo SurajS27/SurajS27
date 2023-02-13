@@ -69,7 +69,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/suraj21112338" target="blank"><img style="margin-bottom: 50px;"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj21112338" height="75" width="75" /></a>
+
 <a href="https://linkedin.com/in/surajkumar-sikchi-040486154" target="blank"><img style="margin-bottom: 50px;"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajkumar-sikchi-040486154" height="75" width="75" /></a>
 <a href="https://fb.com/surajkumar sikchi" target="blank"><img style="margin-bottom: 5px;"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surajkumar sikchi" height="75" width="75" /></a>
 <a href="https://instagram.com/suraj.m.s_27" target="blank"><img style="margin: 30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj.m.s_27" height="75" width="75" /></a>
