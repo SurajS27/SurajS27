@@ -3,19 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Suraj, a  Final Year Computer Science student 👨‍</div>  
+### <div align="center">I'm Suraj, a First Year M.E (Computer Science) Student @Bits 👨‍</div>  
   
 
-- 👀 I’m interested in Web Development as well as in Android Development  
+- 👀 I’m currently interested in Devops as well as in Systems  
   
 
-- 🌱 I’m currently learning DSA using Java   
+- 🌱 I’m currently learning DSA using C++  
 
 
 - 📫 How to reach me Surajkuamarsikchi@gmail.com  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+   
 
 
 
