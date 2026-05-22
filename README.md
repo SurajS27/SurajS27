@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Suraj, a First Year M.E (Computer Science) Student @Bits 👨‍</div>  
+### <div align="center">I'm Suraj, a Second Year M.E (Computer Science) Student @Bits 👨‍</div>  
   
 
 - 👀 I’m currently interested in Devops as well as in Systems  
